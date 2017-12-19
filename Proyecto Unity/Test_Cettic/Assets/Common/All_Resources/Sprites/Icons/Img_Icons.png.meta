@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: cad880e42bec80b4d9c591771abec8eb
+timeCreated: 1513589952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Img_Icons_0
+    21300002: Img_Icons_1
+    21300004: Img_Icons_2
+    21300006: Img_Icons_3
+    21300008: Img_Icons_4
+    21300010: Img_Icons_5
+    21300012: Img_Icons_6
+    21300014: Img_Icons_7
+    21300016: Img_Icons_8
+    21300018: Img_Icons_9
+    21300020: Img_Icons_10
+    21300022: Img_Icons_11
+    21300024: Img_Icons_12
+    21300026: Img_Icons_13
+    21300028: Img_Icons_14
+    21300030: Img_Icons_15
+    21300032: Img_Icons_16
+    21300034: Img_Icons_17
+    21300036: Img_Icons_18
+    21300038: Img_Icons_19
+    21300040: Img_Icons_20
+    21300042: Img_Icons_21
+    21300044: Img_Icons_22
+    21300046: Img_Icons_23
+    21300048: Img_Icons_24
+    21300050: Img_Icons_25
+    21300052: Img_Icons_26
+    21300054: Img_Icons_27
+    21300056: Img_Icons_28
+    21300058: Img_Icons_29
+    21300060: Img_Icons_30
+    21300062: Img_Icons_31
+    21300064: Img_Icons_32
+    21300066: Img_Icons_33
+    21300068: Img_Icons_34
+    21300070: Img_Icons_35
+    21300072: Img_Icons_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Img_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3583
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3574
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3579
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3580
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3574
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3577
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3576
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3577
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 3577
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3577
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 3576
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Img_Icons_11
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3581
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
