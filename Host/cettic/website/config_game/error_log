@@ -1,0 +1,103 @@
+[18-Dec-2017 15:55:52 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 21
+[18-Dec-2017 15:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 15:59:50 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 25
+[18-Dec-2017 15:59:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 26
+[18-Dec-2017 16:00:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 25
+[18-Dec-2017 16:05:54 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 26
+[18-Dec-2017 16:05:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 27
+[18-Dec-2017 16:08:24 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:08:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 24
+[18-Dec-2017 16:09:00 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:09:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 24
+[18-Dec-2017 16:15:30 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:15:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:19:08 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:19:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:30:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:30:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:31:26 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:31:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:32:55 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:32:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:33:55 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:33:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:34:57 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:34:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:36:53 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:36:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:38:50 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:38:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:41:25 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:41:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:44:43 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:44:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:44:54 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:44:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:45:42 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:45:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:45:59 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:45:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:46:02 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:46:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:47:09 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:47:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:47:12 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:47:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:49:09 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:49:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:51:56 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:51:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:52:36 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 16:52:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 16:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected '301' (T_LNUMBER) in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 16:58:49 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:02:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:02:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:02:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:04:08 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:05:26 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:05:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:05:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php:22) in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 38
+[18-Dec-2017 17:10:50 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:10:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:11:59 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:11:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:12:10 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:12:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:12:41 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:12:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:12:50 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:12:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:12:56 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:12:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:13:43 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:13:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:14:05 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:14:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:14:09 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:14:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:14:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:14:52 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:14:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:16:48 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:16:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:17:45 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:17:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:17:53 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:17:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:18:02 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:18:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:18:04 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:18:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:18:07 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 22
+[18-Dec-2017 17:18:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 23
+[18-Dec-2017 17:19:47 America/Chicago] PHP Notice:  Undefined variable: sql in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:47 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 49
+[18-Dec-2017 17:19:49 America/Chicago] PHP Notice:  Undefined variable: sql in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:49 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 49
+[18-Dec-2017 17:19:51 America/Chicago] PHP Notice:  Undefined variable: sql in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:51 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 48
+[18-Dec-2017 17:19:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/andresprog/public_html/cofradinn.com/cettic/website/config_game/update.php on line 49

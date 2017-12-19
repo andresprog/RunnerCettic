@@ -1,0 +1,32 @@
+Actualizaciones:
+
+v1.0.0:
+	- Primeras pruebas
+
+v1.0.1:
+	- Ajustes (no fueron descritos por falta de tiempo)
+
+v1.0.2:
+	- Ajustes (no fueron descritos por falta de tiempo)	
+
+v1.0.3: mejoras:
+	- el sonido de ganaste y perdiste
+	- la pantalla de panelblock, resultados y otras tenian un marco transparente el cual permitía ver hacia atrás (solucionado)
+	- la cancion del fondo del gameplay se montaba en los resultados (solucionado)
+	- se terminó de reparar la arquitectura de partida para poder modificar pares de cartas por oleadas, tiempo por
+	  etapa, vidas por etapa, oleadas por etapa, etapas por partidas, al mismo tiempo agregar, oleadas y etapas
+	- barra de puntos se sobrepasaba de los niveles por tema de requerimientos en cambios a nivel (solucionado)
+	- ventana de objetivos, el panel con la palabra encuentra se desconfiguraba (solucionado) 
+
+
+v1.0.4: mejoras:
+	- el tema de tocar la pantalla multiples veces, la app se descontrolaba
+	- se balanceo la App para que las partidas se puedan probar desde muy facil con muchas vidas y tiempo aumentando
+	  muy progresivamente la dificultad.
+	- Se realizaron cambios en la compatibilidad de pantalla de la barra de tiempo (para testing)
+	
+
+Nota: a partir de aqui se comenzará a llevar control de actualizaciones
+
+v1.0.5: mejoras:
+	- 
